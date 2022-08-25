@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shrooq</h1>
+<h1 align="center">Shrooq Abu Awaily</h1>
 <h3 align="center">Python Django | Data science |  Computer Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrooqayman&label=Profile%20views&color=0e75b6&style=flat" alt="shrooqayman" /> </p>
