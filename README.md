@@ -25,6 +25,8 @@ I can do
 
 ## projects:
 <h3>Ecomerce project |<a href="https://github.com/ShrooqAyman/Ecommerce">Code</a>|<a href="https://github.com/ShrooqAyman/Ecommerce"> Live Preview</a></h3>
+<span>May 2022</span>
+<br>
 <p>In this project I developed an e-commerce management system using the Django framework</p>
 <h4>This project contain many of features like</h4>
 <ul>
@@ -41,6 +43,8 @@ I can do
 </ul>
 
 <h3>Library Management system project | <a href="https://github.com/ShrooqAyman/LMS---Django-Rest-Framework-">Code</a>|<a href="https://github.com/ShrooqAyman/Ecommerce"> Live Preview</a></h3>
+<span>July 2022</span>
+<br>
 <p>In this project I developed an Library Management system  using the Django Rest framework</p>
 <h4>This project contain many of features like</h4>
 <ul>
@@ -55,6 +59,8 @@ I can do
 </ul>
 
 <h3>Diamond Price prediction (supervised Machine learning)| <a href="https://github.com/ShrooqAyman/Diamonds-Price-Prediction">Code</a></h3>
+<span>April 2022</span>
+<br>
 <p>In this I project create a prediction model with minimum error to predict Diamond's price.</p>
 <h4>Skills </h4>
 
@@ -63,6 +69,8 @@ I can do
 <li> numpy, pandas, seaborn, RandomForestRegressor, LinearRegression, DecisionTreeRegressor,GradientBoostingRegressor</li>
 </ul>
 <h3>Music genre classification (supervised Machine learning)| <a href="https://github.com/ShrooqAyman/Music-genre-Classification">Code</a></h3>
+<span>June 2022</span>
+<br>
 <p>In this I project create a classification model with minimum error to classify music.</p>
 <h4>Skills </h4>
 
