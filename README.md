@@ -15,10 +15,10 @@ I can do
 ## Technical Skills:
 - Programming Language: Java, Python, C, C#, JavaScript, PHP 
 - Frameworks: Django, Rest framework, JavaFX. 
-- Database: PostgreSQL , MySQL , Oracle. 
-- Data Science and web crawling: NumPy, Scrapy, BeautifulSoup, Pandas, SciPy
+- Database: PostgreSQL , MySQL . 
+- Data Science: NumPy, Pandas
 - Visualization: Matplotlib, Seaborn, Plotly.
-- Machine Learning: Pytorch, Scikit-Learn, Keras, Tensor Flow.
+- Machine Learning: Scikit-Learn, Tensor Flow.
 - Computer Vision: Pillow, OpenCV, Scikit-Image.
 - Soft Skills: Teamwork, Leadership, Self-motivation, Communication.
 - Others: SQL ,Ajax ,jQuery ,HTML ,CSS ,Agile ,Postman API ,bootstrap ,MATLAB.
@@ -35,6 +35,11 @@ I can do
 <li>Make payment</li>
 </ul>
 
+<h4>Skills </h4>
+<ul>
+<li> HTML, CSS, JavaScript, Python, Django, Bootstrap, SQL, Ajax, jQuery</li>
+</ul>
+
 <h3>Library Management system project | <a href="https://github.com/ShrooqAyman/LMS---Django-Rest-Framework-">Code</a>|<a href="https://github.com/ShrooqAyman/Ecommerce"> Live Preview</a></h3>
 <p>In this project I developed an Library Management system  using the Django Rest framework</p>
 <h4>This project contain many of features like</h4>
@@ -43,13 +48,20 @@ I can do
 <li>Admin Dashboard: admin can apply all CRUD operation on  category, books, issues and users</li>
 <li>Users can view books and category</li>
 </ul>
+<ul>
+<li> HTML, CSS, JavaScript, Python, Django, Bootstrap, SQL, Ajax, jQuery, API</li>
+</ul>
 
 <h3>Diamond Price prediction (supervised Machine learning)| <a href="https://github.com/ShrooqAyman/Diamonds-Price-Prediction">Code</a></h3>
 <p>In this I project create a prediction model with minimum error to predict Diamond's price.</p>
+<ul>
+<li> numpy, pandas, seaborn, RandomForestRegressor, LinearRegression, DecisionTreeRegressor,GradientBoostingRegressor</li>
+</ul>
 <h3>Music genre classification (supervised Machine learning)| <a href="https://github.com/ShrooqAyman/Music-genre-Classification">Code</a></h3>
 <p>In this I project create a classification model with minimum error to classify music.</p>
-
-
+<ul>
+<li> numpy, pandas, seaborn, Catboosting</li>
+</ul>
 
 ### Languages and Tools:
 
