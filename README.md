@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrooqayman&label=Profile%20views&color=0e75b6&style=flat" alt="shrooqayman" /> </p>
 
-I am a Junior Django developer with good knowledge in data science since I can work on end-to-end machine learning projects, starting with collecting data and end deploying the model.
+I am  Django developer with good knowledge in data science since I can work on end-to-end machine learning projects, starting with collecting data and end deploying the model.
 
 I can do
 - Clean, preprocess and visualize data using python.
