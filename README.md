@@ -48,18 +48,25 @@ I can do
 <li>Admin Dashboard: admin can apply all CRUD operation on  category, books, issues and users</li>
 <li>Users can view books and category</li>
 </ul>
+<h4>Skills </h4>
+
 <ul>
 <li> HTML, CSS, JavaScript, Python, Django, Bootstrap, SQL, Ajax, jQuery, API</li>
 </ul>
 
 <h3>Diamond Price prediction (supervised Machine learning)| <a href="https://github.com/ShrooqAyman/Diamonds-Price-Prediction">Code</a></h3>
 <p>In this I project create a prediction model with minimum error to predict Diamond's price.</p>
+<h4>Skills </h4>
+
 <ul>
+ 
 <li> numpy, pandas, seaborn, RandomForestRegressor, LinearRegression, DecisionTreeRegressor,GradientBoostingRegressor</li>
 </ul>
 <h3>Music genre classification (supervised Machine learning)| <a href="https://github.com/ShrooqAyman/Music-genre-Classification">Code</a></h3>
 <p>In this I project create a classification model with minimum error to classify music.</p>
 <ul>
+  <h4>Skills </h4>
+
 <li> numpy, pandas, seaborn, Catboosting</li>
 </ul>
 
