@@ -64,12 +64,13 @@ I can do
 </ul>
 <h3>Music genre classification (supervised Machine learning)| <a href="https://github.com/ShrooqAyman/Music-genre-Classification">Code</a></h3>
 <p>In this I project create a classification model with minimum error to classify music.</p>
-<ul>
-  <h4>Skills </h4>
+<h4>Skills </h4>
 
+<ul>
 <li> numpy, pandas, seaborn, Catboosting</li>
 </ul>
 
-### Languages and Tools:
+
+## Languages and Tools:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrooqayman&show_icons=true&locale=en&layout=compact" alt="shrooqayman" /></p>
