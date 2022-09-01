@@ -7,10 +7,10 @@
 I am  Django developer with good knowledge in data science since I can work on end-to-end machine learning projects, starting with collecting data and end deploying the model.
 
 I can do
-- Clean, preprocess and visualize data using python.
-- Create dashboard using power bi.
-- Train/test machine learning model e.g. (regression, classification,…).
-- Develop systems, and APIs using Django.
+✅ Clean, preprocess and visualize data using python.
+✅ Create dashboard using power bi.
+✅ Train/test machine learning model e.g. (regression, classification,…).
+✅ Develop systems, and APIs using Django.
 
 ## Technical Skills:
 - Programming Language: Java, Python, C, C#, JavaScript, PHP 
