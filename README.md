@@ -24,7 +24,7 @@ I can do
 - Others: SQL ,Ajax ,jQuery ,HTML ,CSS ,Agile ,Postman API ,bootstrap ,MATLAB.
 
 ## projects:
-<h3>Ecomerce project |<a href="https://github.com/ShrooqAyman/Ecommerce">Code</a>|<a href="https://github.com/ShrooqAyman/Ecommerce"> Live Preview</a></h3>
+<h3>Ecomerce project |<a href="https://github.com/ShrooqAyman/Ecommerce">Code</a></h3>
 <span>May 2022</span>
 <br>
 <p>In this project I developed an e-commerce management system using the Django framework</p>
@@ -42,7 +42,7 @@ I can do
 <li> HTML, CSS, JavaScript, Python, Django, Bootstrap, SQL, Ajax, jQuery</li>
 </ul>
 
-<h3>Library Management system project | <a href="https://github.com/ShrooqAyman/LMS---Django-Rest-Framework-">Code</a>|<a href="https://github.com/ShrooqAyman/Ecommerce"> Live Preview</a></h3>
+<h3>Library Management system project | <a href="https://github.com/ShrooqAyman/LMS---Django-Rest-Framework-">Code</a></h3>
 <span>July 2022</span>
 <br>
 <p>In this project I developed an Library Management system  using the Django Rest framework</p>
