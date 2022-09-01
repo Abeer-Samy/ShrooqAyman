@@ -24,7 +24,7 @@ I can do
 - Others: SQL ,Ajax ,jQuery ,HTML ,CSS ,Agile ,Postman API ,bootstrap ,MATLAB.
 
 ## projects:
-<h3>Ecomerce project |<a href="https://github.com/ShrooqAyman/Ecommerce">Code</a></h3>
+<h3> <a href="https://github.com/ShrooqAyman/Ecommerce">Ecomerce project</a></h3>
 <span>May 2022</span>
 <br>
 <p>In this project I developed an e-commerce management system using the Django framework</p>
@@ -42,7 +42,7 @@ I can do
 <li> HTML, CSS, JavaScript, Python, Django, Bootstrap, SQL, Ajax, jQuery</li>
 </ul>
 
-<h3>Library Management system project | <a href="https://github.com/ShrooqAyman/LMS---Django-Rest-Framework-">Code</a></h3>
+<h3> <a href="https://github.com/ShrooqAyman/LMS---Django-Rest-Framework-">Library Management system project</a></h3>
 <span>July 2022</span>
 <br>
 <p>In this project I developed an Library Management system  using the Django Rest framework</p>
@@ -58,7 +58,7 @@ I can do
 <li> HTML, CSS, JavaScript, Python, Django, Bootstrap, SQL, Ajax, jQuery, API</li>
 </ul>
 
-<h3>Diamond Price prediction (supervised Machine learning)| <a href="https://github.com/ShrooqAyman/Diamonds-Price-Prediction">Code</a></h3>
+<h3> <a href="https://github.com/ShrooqAyman/Diamonds-Price-Prediction">Diamond Price prediction (supervised Machine learning)</a></h3>
 <span>April 2022</span>
 <br>
 <p>In this I project create a prediction model with minimum error to predict Diamond's price.</p>
@@ -68,7 +68,7 @@ I can do
  
 <li> numpy, pandas, seaborn, RandomForestRegressor, LinearRegression, DecisionTreeRegressor,GradientBoostingRegressor</li>
 </ul>
-<h3>Music genre classification (supervised Machine learning)| <a href="https://github.com/ShrooqAyman/Music-genre-Classification">Code</a></h3>
+<h3> <a href="https://github.com/ShrooqAyman/Music-genre-Classification">Music genre classification (supervised Machine learning)</a></h3>
 <span>June 2022</span>
 <br>
 <p>In this I project create a classification model with minimum error to classify music.</p>
